@@ -1,0 +1,14 @@
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\bin\Debug\netcoreapp3.1\TrabajoHerencia.exe
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\bin\Debug\netcoreapp3.1\TrabajoHerencia.deps.json
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\bin\Debug\netcoreapp3.1\TrabajoHerencia.runtimeconfig.json
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\bin\Debug\netcoreapp3.1\TrabajoHerencia.runtimeconfig.dev.json
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\bin\Debug\netcoreapp3.1\TrabajoHerencia.dll
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\bin\Debug\netcoreapp3.1\TrabajoHerencia.pdb
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\obj\Debug\netcoreapp3.1\TrabajoHerencia.csproj.AssemblyReference.cache
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\obj\Debug\netcoreapp3.1\TrabajoHerencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\obj\Debug\netcoreapp3.1\TrabajoHerencia.AssemblyInfoInputs.cache
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\obj\Debug\netcoreapp3.1\TrabajoHerencia.AssemblyInfo.cs
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\obj\Debug\netcoreapp3.1\TrabajoHerencia.csproj.CoreCompileInputs.cache
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\obj\Debug\netcoreapp3.1\TrabajoHerencia.dll
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\obj\Debug\netcoreapp3.1\TrabajoHerencia.pdb
+D:\SNEYDER\ESCUELA DE ARTES Y LETRAS\Sexto semestre\TRABAJOS\PROGRAMACIÓN\TERCER CORTE\TRABAJO HERENCIA\TrabajoHerencia\obj\Debug\netcoreapp3.1\TrabajoHerencia.genruntimeconfig.cache
